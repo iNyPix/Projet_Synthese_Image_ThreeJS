@@ -1,0 +1,66 @@
+#webgl{
+ border:solid 2px;
+ border-color: #B3DCF0;
+ /*margin-left: 0.5cm;
+ width:95%;
+ height:95%;*/
+ background-color:white;
+}
+
+#TableauCamera{
+ text-align:center;
+ border : solid 2px;
+ border-color: #B3DCF0;
+ background-color:green;
+ border-collapse:collapse;
+}
+
+#TableauCamera td, #TableauCamera th{
+ /*text-align:center;*/
+ border : solid red 2px;
+ /*background-color:green;
+ border-collapse:collapse;*/
+}
+
+input[type='number']{
+ width:5cm;
+ background-color:yellow;
+ color:blue;
+}
+input[type='button']{
+ margin-left:1cm;
+ margin-top:0.2cm;
+ width:5cm;
+ background-color:#99FF99;
+ color:red;
+}
+
+body{background-image: url(../img/winterjo.jpg);}
+
+fieldset{
+ color : white;
+ background-color:black;
+ font-weight:900;
+}
+
+h1{
+	padding-top: .5em;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 3em;
+}
+
+table{
+		border: 2px solid;
+		border-collapse: collapse;
+		font-size: 1em;
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+
+td
+{
+    border: 1px solid black;
+}
+
